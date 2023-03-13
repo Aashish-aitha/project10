@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zk>
+	<config-name>1</config-name><!-- used to resolve dependency -->
+	<!--
+	<depends>zk</depends>
+	-->
+	
+  	<version>
+		<version-class>3.Version</version-class>
+		<version-uid>2</version-uid>
+	</version>
+
+	<!--
+	<listener>
+		<listener-class>3.</listener-class>
+	</listener>
+	
+	<library-property>
+		<name></name>
+		<value>3.</value>
+	</library-property>
+	-->
+</zk>
